@@ -32,5 +32,5 @@ JavaScript (ES6+) → logic & state management
 
 ## Screenshots
 
-<div align=center> <img src='src/assets/dashboard.png' width='300'> <img src='src/assets/doc.png' width='300'> <img src='src/assets/pat.png' width='300'> <img src='src/assets/appo.png' width='300'> <img src='src/assets/pay.png' width='300'> <img src='src/assets/set.png' width='300'>
+<div align=center> <img src='src/assets/dashboard.png'> <img src='src/assets/doc.png'> <img src='src/assets/pat.png'> <img src='src/assets/appo.png' > <img src='src/assets/pay.png'> <img src='src/assets/set.png' >
 </div>
